@@ -17,5 +17,5 @@
 
 > Atuais Discussões:
 
-- [Boas-vindas 🖖🤘✌](https://github.com/Viceri/forum/issues/2)
-- [Arquitetura de Pastas do Angular](https://github.com/Viceri/forum/issues/1)
+- [Boas-vindas 🖖🤘✌](https://github.com/Viceri/forum/issues/1)
+- [Arquitetura de Pastas do Angular](https://github.com/Viceri/forum/issues/2)
